@@ -1,0 +1,92 @@
+
+.m img {
+
+    background: url(/assets/img/banner.webp);
+    background-attachment: fixed;
+
+}
+   
+
+.all{
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 50px;
+    padding-bottom: 30px;
+
+}
+.write{
+    padding-top: 30px;
+}
+
+.d{
+
+    text-align: center;
+    font-size: 40px;
+}
+
+.all:hover{
+
+    transition: 1s;
+    background: grey;
+    box-shadow: 5px 5px 5px white;
+   
+}
+.banner{
+    background: url(/assets/img/Untitled\ design.jpg) center no-repeat;
+    padding: 300px;
+    background-attachment: fixed;
+} 
+
+.mybtn{
+    margin-bottom: -40px;
+    
+}
+
+/* .header{
+
+    color: aliceblue;
+    background-color:grey;
+    padding: 10px;
+    border-radius: 30px;
+    margin-top: 30px; 
+   display: inline-block;
+   padding-left: 10px;
+   padding-right: 10px;
+} */
+
+/* .h{
+
+    text-align: center;
+} */
+.a{
+    margin-bottom: 50px;
+}
+
+.button{
+
+    text-align: center;
+}
+
+.l{
+
+   color: aliceblue;
+}
+
+.box{
+
+    text-align: center;
+    background-color: darkslategrey;
+    display: inline-block;
+    border-radius: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.neww{
+
+    text-align: center;
+    
+   
+}
